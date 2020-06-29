@@ -1,0 +1,15 @@
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\bin\Debug\WpfAppGuessTheNumber.exe.config
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\bin\Debug\WpfAppGuessTheNumber.exe
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\bin\Debug\WpfAppGuessTheNumber.pdb
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.csprojAssemblyReference.cache
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\MainWindow.g.cs
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\App.g.cs
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber_MarkupCompile.cache
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber_MarkupCompile.lref
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\MainWindow.baml
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.g.resources
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.Properties.Resources.resources
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.csproj.GenerateResource.cache
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.exe
+C:\Users\Others\source\repos\WpfAppGuessTheNumber\WpfAppGuessTheNumber\obj\Debug\WpfAppGuessTheNumber.pdb
